@@ -1,0 +1,4 @@
+Asus@DemenkoEugeny MINGW64 /d/MyProject/Git/GitNew
+$ git init
+Initialized empty Git repository in D:/MyProject/Git/GitNew/.git/
+
